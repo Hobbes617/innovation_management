@@ -1296,3 +1296,12 @@ za
 zero
 zm
 zr
+note
+a)
+b)
+c)
+d)
+e)
+f)
+g)
+h)
