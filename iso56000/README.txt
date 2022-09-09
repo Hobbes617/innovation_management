@@ -9,9 +9,9 @@ ISO. (2020). ISO 56000:2020, Innovation management: Fundamentals and vocabulary 
                 - The original definition has been modified by adding more examples to Note 1 to entry.
                 - For the purpose of statistical measurement, refer to the Oslo Manual 2018, 4th edition, by OECD/ Eurostat.
                 - See Annex B.3 for a comparison between the definitions related to ...
+                - [SOURCE: ISO 9000:2015, 3.3.1]
                 - [SOURCE: Oxford English Dictionary, modified]
                              
-
 ISO. (2019). ISO 56002:2019, Innovation management — Innovation management system — Guidance (1st ed.)
              https://www.iso.org/standard/68221.html
 
