@@ -1296,6 +1296,7 @@ za
 zero
 zm
 zr
+-LSB-
 a)
 b)
 c)
@@ -1305,5 +1306,8 @@ f)
 g)
 h)
 i)
+e.g.
 entry
+ISO
 note
+SOURCE
