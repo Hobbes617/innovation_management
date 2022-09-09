@@ -4,10 +4,10 @@ ISO. (2020). ISO 56000:2020, Innovation management: Fundamentals and vocabulary 
              https://www.iso.org/standard/69315.html
 
 ISO. (2019). ISO 56002:2019, Innovation management — Innovation management system — Guidance (1st ed.)
-             https://www.iso.org/fr/standard/68221.html
+             https://www.iso.org/standard/68221.html
 
 ISO. (2019). 	ISO 56003:2019, Innovation management — Tools and methods for innovation partnership — Guidance (1st ed.)
-             https://www.iso.org/fr/standard/68929.html
+             https://www.iso.org/standard/68929.html
 
 ISO. (2020). ISO 56005:2020, Innovation management: Tools and methods for intellectual property management — Guidance (1st ed.)
              https://www.iso.org/standard/72761.html
