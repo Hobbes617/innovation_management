@@ -29,4 +29,19 @@ I include the new words that were not on the original list beginning at line 129
   4
   %
   '
-  Total = 1313 + 15 = 1328 mots
+  paper
+  papers
+  based
+  base
+  study
+  studies
+  studied
+  result
+  finding
+  findings
+  purpose
+  elsevier
+  published
+  rights
+
+Total = 1313 + 33 = 1346 mots
