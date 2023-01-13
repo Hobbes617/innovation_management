@@ -43,7 +43,6 @@ purpose
 elsevier
 published
 rights
-reserved
 aims
 aimed
 aim
@@ -53,4 +52,4 @@ explore
 explores
 exploring
 
-Total = 1313 + 43 = 1389 mots
+Total = 1313 + 42 = 1355 mots
