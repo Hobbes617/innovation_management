@@ -51,5 +51,7 @@ examines
 explore
 explores
 exploring
+literature
+article
 
-Total = 1313 + 42 = 1355 mots
+Total = 1313 + 43 = 1356 mots
