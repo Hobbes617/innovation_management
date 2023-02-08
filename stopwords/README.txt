@@ -14,6 +14,7 @@ ISO
 note
 SOURCE
 -RSB-
+-RSB-_NN
 ;
 ,
 .
@@ -53,5 +54,8 @@ explores
 exploring
 literature
 article
+clause
+review
+reviews
 
-Total = 1313 + 43 = 1356 mots
+Total = 1313 + 48 = 1361 mots
