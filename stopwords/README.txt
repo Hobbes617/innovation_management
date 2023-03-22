@@ -57,5 +57,7 @@ article
 clause
 review
 reviews
+author
+authors
 
 Total = 1313 + 48 = 1361 mots
