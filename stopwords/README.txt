@@ -43,7 +43,6 @@ findings
 purpose
 elsevier
 published
-rights
 aims
 aimed
 aim
@@ -60,4 +59,4 @@ reviews
 author
 authors
 
-Total = 1313 + 48 = 1361 mots
+Total = 1313 + 49 = 1362 mots
