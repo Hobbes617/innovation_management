@@ -7,7 +7,12 @@ https://github.com/stopwords-iso/stopwords-en/blob/ccc8898188850d8fb019d5f69c14a
 I include the new words that were not on the original list beginning at line 1299.
 
 2022-09-09 - I included the words: -LSB-; e.g.; entry; ISO; note; SOURCE; a); b); c); d); e); f); g); h); i) || 1298 + 15 = 1313 mots.
-2023-01-13 - new words
+
+2023-03-23 - deletion of the text: all rights reserved
+
+2023-03-23 - Bigrams
+
+2023-03-23 - new words
 e.g.
 entry
 ISO
