@@ -21,4 +21,4 @@ ISO. (2019). 	ISO 56003:2019, Innovation management — Tools and methods for in
 ISO. (2020). ISO 56005:2020, Innovation management: Tools and methods for intellectual property management — Guidance (1st ed.)
              https://www.iso.org/standard/72761.html
 
-The format for the data analysis is shown in the excel files below.
+The attached Excel files illustrate the data analysis format.
