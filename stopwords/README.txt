@@ -2,6 +2,8 @@ This is the project's original stopwords file (There are 1298 words in total - 2
 
 https://github.com/stopwords-iso/stopwords-en/blob/ccc8898188850d8fb019d5f69c14a6635c3bd115/stopwords-en.txt
 
+The complete list of words used can be found in the file stopwords-en_v2.txt.
+
 The following is a list of new words that were not included in the original version:
 
 -LSB-
